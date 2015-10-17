@@ -5,6 +5,7 @@
     <script type="text/javascript" src="http://api.map.baidu.com/api?v=1.3"></script>
 </head>
 <body style="background:#CBE1FF">
+<h3>我是第一版本添加的</h3>
     <div style="width:730px;margin:auto;">   
         要查询的地址：<input id="text_" type="text" value="" style="margin-right:100px;"/>
         查询结果(经纬度)：<input id="result_" type="text" />
